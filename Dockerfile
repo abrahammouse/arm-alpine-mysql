@@ -1,5 +1,5 @@
-FROM alpine:latest
-MAINTAINER WangXian <xian366@126.com>
+FROM container4armhf/armhf-alpine:latest
+MAINTAINER Abraham <abrahammouse@gmail.com>
 
 WORKDIR /app
 VOLUME /app
